@@ -1,0 +1,14 @@
+{
+  "name": "shef-cowork-tools",
+  "version": "1.0.0",
+  "description": "Документация и примеры: как дать AI-агенту shef.cowork функции своего модуля Битрикс24",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test \"tools/*.test.mjs\" \"examples/*/test/*.test.mjs\""
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

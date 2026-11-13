@@ -2,7 +2,7 @@
   "name": "shef-cowork-tools",
   "version": "1.0.0",
   "description": "Документация и примеры: как дать AI-агенту shef.cowork функции своего модуля Битрикс24",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "type": "module",
   "private": true,
   "scripts": {
